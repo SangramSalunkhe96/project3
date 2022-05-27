@@ -1,0 +1,50 @@
+git push
+git status
+git add .
+git commit -m "Modified files"
+git status
+git push
+git status
+git log
+git checkout 9f3f
+cd ..
+git clone https://github.com/SangramSalunkhe96/project3.git
+cd project3
+git status
+git push
+git status
+git push
+git commit -m "Third file"
+git add .
+git commit
+git status
+git push
+git push -u origin master
+git remote add origin https://github.com/SangramSalunkhe96/project3.git
+git status
+git commit -m "Third file"
+git push
+git pull origion master
+git pull origin master
+git add .
+git commit "file added"
+git commit -m "file added"
+git push
+git status
+cd ..
+cd user2
+git status
+cd ..
+cd project3
+git status
+git commit -m "user1.txt is added"
+git add .
+git commit -m "user1.txt is added"
+git push
+git pull
+cmd_historygit1.txt
+cmd_history.txt
+doskey/h>
+doskey/h>cmd_history.txt
+doskey/h>c:\cmd_history.txt
+doskey/h>cmd_history.txt
